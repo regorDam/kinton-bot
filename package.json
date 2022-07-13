@@ -1,0 +1,23 @@
+{
+  "name": "@regordam/kinton-bot",
+  "version": "1.0.0",
+  "description": "KintonCloud Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regorDam/kinton-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Regor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regorDam/kinton-bot/issues"
+  },
+  "homepage": "https://github.com/regorDam/kinton-bot#readme"
+}
