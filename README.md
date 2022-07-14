@@ -2,7 +2,7 @@
 
 [![KC](https://games.kintoncloud.com/assets/img/PoweredBy.png)](https://kintoncloud.com)
 
-![GitHub last-commit](https://img.shields.io/github/last-commit/regordam/kinton-bot/dev)
+![GitHub last-commit](https://img.shields.io/github/last-commit/regordam/kinton-bot/dev?logo=github)
 [![GitHub commits](https://img.shields.io/github/commits-since/regordam/kinton-bot/v1.0.0/master?logo=github&style=flat)](https://github.com/regorDam/kinton-bot/commits/master)
 [![Node.js CI](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml/badge.svg)](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml)
 
