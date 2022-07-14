@@ -5,7 +5,7 @@
 [//]: # (branch - https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 [//]: # (event parameter - https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://github.com/regorDam/kinton-bot/commits/master)
+[![GitHub commits](https://img.shields.io/github/commits-since/regordam/kinton-bot/v1.0.0/master?logo=github&style=plastic)](https://github.com/regorDam/kinton-bot/commits/master)
 [![Node.js CI](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml/badge.svg)](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml)
 
 # New Features!
