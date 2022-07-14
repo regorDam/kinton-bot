@@ -4,7 +4,10 @@
   "description": "KintonCloud Bot",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "start": "node index.js",
+    "test": "exit 0",
+    "production": "NODE_ENV=production&&npm start",
+    "development": "set NODE_ENV=development&&npm start"
   },
   "repository": {
     "type": "git",
@@ -22,5 +25,14 @@
   "homepage": "https://github.com/regorDam/kinton-bot#readme",
   "publishConfig": {
     "@regordam:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.8"
   }
 }
