@@ -5,7 +5,7 @@
 [//]: # (branch - https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 [//]: # (event parameter - https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
+![example event parameter]([https://github.com/github/docs/actions/workflows/main.yml/badge.svg](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml/badge.svg)?event=pull_request)
 [![Node.js CI](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml/badge.svg)](https://github.com/regorDam/kinton-bot/actions/workflows/release-package.yml)
 
 # New Features!
